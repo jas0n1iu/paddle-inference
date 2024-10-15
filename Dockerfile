@@ -1,5 +1,5 @@
 #FROM registry.baidubce.com/paddlepaddle/paddle:2.2.2-gpu-cuda10.2-cudnn7
-FROM registry.baidubce.com/paddlepaddle/paddle:2.6.1-gpu-cuda12.0-cudnn8.9-trt8.6
+FROM registry.baidubce.com/paddlepaddle/paddle:2.6.2-gpu-cuda12.0-cudnn8.9-trt8.6
 
 ENV LANG=en_US.utf8
 ENV LANG=C.UTF-8
