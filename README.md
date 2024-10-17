@@ -26,10 +26,6 @@ Before running the notebook, ensure that you have the following prerequisites:
 
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](http://private-llm-qa-bot-1466657168.us-west-2.elb.amazonaws.com/LICENSE).
-
 ## Acknowledgments
 
 This notebook was created using the Amazon SageMaker Python SDK and the PaddleOCR library. Special thanks to the developers of these projects for their contributions.
